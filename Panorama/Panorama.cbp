@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="convolution.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="convolution.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
