@@ -31,10 +31,34 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Conversions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Conversions.h" />
+		<Unit filename="FileExporting.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FileExporting.h" />
+		<Unit filename="FileReading.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FileReading.h" />
+		<Unit filename="ImageLoading.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ImageLoading.h" />
+		<Unit filename="InputCheck.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="InputCheck.h" />
+		<Unit filename="Types.h" />
 		<Unit filename="convolution.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="convolution.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<code_completion />
 			<envvars />
